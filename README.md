@@ -1,6 +1,6 @@
 How to install:
 
-git clone https://github.com/fridaynite/task-list.git
-cd task-list
-npm install
-npm start
+1. git clone https://github.com/fridaynite/task-list.git
+2. cd task-list
+3. npm install
+4. npm start
